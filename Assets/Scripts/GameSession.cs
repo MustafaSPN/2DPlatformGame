@@ -63,6 +63,10 @@ public class GameSession : MonoBehaviour
 
     public void Score()
     {
+        
+        
+        
+        
         score += 100;
         scoreText.text = score.ToString();
 
